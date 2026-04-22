@@ -1,2 +1,2 @@
 # .github
-Velkommen til iTeam AS på GitHub.
+Velkommen til iteam AS på GitHub.
